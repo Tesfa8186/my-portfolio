@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
-  color: blue;
-  background-color: rgb(215, 183, 246);
+    text-align: center;
+    text-overflow: inherit;
+}
+
+.PortfolioContaine {
+    text-align: center;
 }

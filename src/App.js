@@ -1,11 +1,6 @@
-import "./App.css";
+import React from "react";
+import Container from "./components/Container";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello Tesfa</h1>
-    </div>
-  );
-}
+const App = () => <Container />;
 
 export default App;
